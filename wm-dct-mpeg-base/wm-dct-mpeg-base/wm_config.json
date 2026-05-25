@@ -1,0 +1,17 @@
+{
+  "payload": "COPYRIGHT-LAB-A-STUDIO",
+  "nbits": 64,
+  "seed": 111222,
+  "alpha": 14,
+  "embed_repeat": 6,
+  "ecc_repetition": 1,
+  "adaptive": false,
+  "frame_stride": 1,
+  "coeff_a": [3, 2],
+  "coeff_b": [2, 3],
+  "rate": 25,
+  "gop": 12,
+  "mpeg_q": 4,
+  "search_radius_blocks": 0,
+  "detect_ber_threshold": 0.15
+}
